@@ -1,0 +1,4 @@
+Instance:  i-5b644d9f
+Public IP: 54.201.223.183
+Password:  e%PEajgt4L%
+AMI:       ami-26c3df47
