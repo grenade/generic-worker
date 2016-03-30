@@ -357,7 +357,7 @@ func (task *TaskRun) generateCommand(index int) (Command, error) {
 
 func taskCleanup() error {
 	// note if this fails, we carry on without throwing an error
-	deleteExistingOSUsers()
+	// deleteExistingOSUsers()
 	// this needs to succeed, so return an error if it doesn't
 	return createNewTaskUser()
 }
